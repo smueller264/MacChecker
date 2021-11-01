@@ -15,9 +15,7 @@ I ordered a standard config MacBook Pro and the delivery date was so late, that 
 
 ## Screenshots
 
-![Example screenshot](./img/screenshot.png)
-
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Example screenshot](./terminal_screenshot.png)
 
 ## Room for Improvement
 
